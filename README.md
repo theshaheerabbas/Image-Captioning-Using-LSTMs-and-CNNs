@@ -1,6 +1,6 @@
 # Image-Captioning-Using-LSTMs-and-CNNs
-This is a project focused on generating descriptive captions for images using a combination of Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs). This innovative approach leverages the power of CNNs for image feature extraction and LSTMs for generating contextually relevant captions, providing a seamless fusion of vision and natural language processing. ImageCaptioningImage1
-![Sample Image](images/sample.jpg)
+This is a project focused on generating descriptive captions for images using a combination of Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs). This innovative approach leverages the power of CNNs for image feature extraction and LSTMs for generating contextually relevant captions, providing a seamless fusion of vision and natural language processing.  
+![Result Image](result.png)
 
 ## Key Features
 ### LSTM-CNN Fusion:
